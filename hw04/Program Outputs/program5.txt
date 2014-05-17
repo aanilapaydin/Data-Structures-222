@@ -1,0 +1,15 @@
+var a
+var b
+var c
+a = 10.0
+b = a * 4 + tan 45 + exp 0
+c = sin b + tan a + 9
+print c
+print b
+print a
+
+After reading and calculation:
+
+9.845457587067322
+42.0
+10.0

@@ -1,0 +1,16 @@
+var a
+var b
+input a
+input b
+print a
+print b
+a = ( tan b )
+print a
+print b
+
+After reading and calculation:
+
+5.0
+5.0
+0.08748866352592401
+5.0

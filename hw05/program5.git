@@ -1,0 +1,16 @@
+var a
+a = 5
+loop a
+begin
+var b
+var c
+var d
+b = 3
+c = b - 1
+d = c - 1
+print a
+print b
+print c
+print d
+a = a - 1
+end

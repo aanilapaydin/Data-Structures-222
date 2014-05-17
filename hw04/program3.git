@@ -1,0 +1,9 @@
+var a
+var b
+input a
+input b
+print a
+print b
+a = ( tan b )
+print a
+print b

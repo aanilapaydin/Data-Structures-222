@@ -1,0 +1,11 @@
+var a
+var b
+var c
+a = 6.0 
+b = a
+c = sin a + tan b
+print c
+
+After reading and calculation:
+
+0.20963269853332994

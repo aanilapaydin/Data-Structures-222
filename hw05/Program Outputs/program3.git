@@ -1,0 +1,54 @@
+var a
+var b
+a = 5
+loop a
+begin
+print a
+b = 3
+loop b
+begin
+print b
+b = b - 1
+end
+var c
+c = 2
+loop c
+begin
+print c
+c = c - 1
+end
+a = a - 1
+end
+
+After reading and calculation:
+
+5.0
+3.0
+2.0
+1.0
+2.0
+1.0
+4.0
+3.0
+2.0
+1.0
+2.0
+1.0
+3.0
+3.0
+2.0
+1.0
+2.0
+1.0
+2.0
+3.0
+2.0
+1.0
+2.0
+1.0
+1.0
+3.0
+2.0
+1.0
+2.0
+1.0

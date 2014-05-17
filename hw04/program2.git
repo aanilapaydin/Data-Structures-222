@@ -1,0 +1,10 @@
+var a
+var b
+a = 2.0 * ( 12.0 / 50.0 + tan 0 )
+b = ( a / 4.0 ) + log a
+print b
+var e
+e = log a
+var c
+c = sin a * exp 0.0 / 5.3
+print c

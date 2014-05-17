@@ -1,0 +1,37 @@
+var a
+var b
+a = sin ( 90 )
+loop a
+begin
+b = log 100 * a
+var c
+c = 2
+loop b
+begin
+loop c
+begin
+print a
+print b
+print c
+c = c - 1
+end
+c = 2
+b = b - 1
+end
+a = a - 1
+end
+
+After reading and calculation:
+
+1.0
+2.0
+2.0
+1.0
+2.0
+1.0
+1.0
+1.0
+2.0
+1.0
+1.0
+1.0

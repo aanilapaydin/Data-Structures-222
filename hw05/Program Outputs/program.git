@@ -1,0 +1,46 @@
+var a
+var b
+var c
+input a
+c = 1
+loop a
+begin
+print a
+b = a * 2
+loop b
+begin
+var d
+d = 1
+print b
+loop d
+begin
+print a
+d = d - 1
+end
+d = 1
+b = b - 1
+end
+a = a - 1
+end
+print a
+
+After reading and calculation:
+
+2.0
+4.0
+2.0
+3.0
+2.0
+2.0
+2.0
+1.0
+2.0
+1.0
+2.0
+1.0
+1.0
+1.0
+0.0
+
+
+NOTE:input a is 2

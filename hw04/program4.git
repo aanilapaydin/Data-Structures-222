@@ -1,0 +1,7 @@
+var a
+var b
+var c
+a = 6.0 
+b = a
+c = sin a + tan b
+print c
